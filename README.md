@@ -1,2 +1,1 @@
-# Science_X
-Pinpoint the exact areas in a science subject requiring further investigation, research and knowledge.
+![X](https://github.com/user-attachments/assets/10d74a15-ddcb-43d9-bad0-dfe63896f821)
